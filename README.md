@@ -6,37 +6,6 @@
   <br>
 </h1>
 
-<p align="center">
-  
-  <a href="https://docs.godechain.com/welcome/">
-    <img src="https://s3.coinmarketcap.com/static-gravity/thumbnail/medium/12b1f4d9727b4aab83cd5398bf6e080d.jpg" width="35" height='35'>
-  </a>
-  <a href="https://soliditylang.org/">
-    <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/Solidity.svg" width="80">       
-  </a>
-  <a href="https://reactjs.org/"><img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/react.png" width="80"></a>
-  
-  <a href="https://www.trufflesuite.com/">
-    <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/trufflenew.png" width="50">
-  </a>
-   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.npmjs.com/package/web3">
-    <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/web3.jpg" width="60">
-  </a>
-</p>
-
-<h4 align="center">A simple Supply Chain setup with <a href="https://docs.soliditylang.org/en/v0.8.4/" target="_blank">Solidity</a>.</h4>
-
-<p align="center">
-  <a >
-    <img src="https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg">
-       
-  </a>
-  
-</p>
-
-## Demo 
-https://www.canva.com/design/DAFb-i9v_cM/-fK0pKTuOkFq5dfCPQxh_w/watch?utm_content=DAFb-i9v_cM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 ## Description
 Supply chain is always hard to manage and requires a lot of admistrative machinery. However, when managed with smart contracts using blockchain, a lot of the paperwork is reduced.
@@ -54,8 +23,6 @@ The smart contract is being written with Solidity which is then compiled, migrat
 
 
 ## Smart Contract Working Flow
-
-![https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/Supply%20Chain%20Design%20(1).png?token=GHSAT0AAAAAAB52SPAT5YHI3AALNPFXL27AY7OU3IQ](https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/Supply%20Chain%20Design%20(1).png?token=GHSAT0AAAAAAB52SPAT5YHI3AALNPFXL27AY7OU3IQ)
 
 This is a SupplyChain smart contract written in Solidity. The contract models the various roles and stages involved in the supply chain of a pharmaceutical product.
 
@@ -160,14 +127,3 @@ Select "Custom RPC" and enter the RPC server URL and port number for your Ganach
 
      ![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs76Q1oyMK717kRZ8FMC_i2VCstu8H2yZFqlfgccSsalxBXWm2PBwzS-peIFv4DqGos9g&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs76Q1oyMK717kRZ8FMC_i2VCstu8H2yZFqlfgccSsalxBXWm2PBwzS-peIFv4DqGos9g&usqp=CAU)
  3. Add All participate(Raw Material,Supplier,Manufacture,Retail). by following above Step
-
-### License
-This project uses an [MIT](https://opensource.org/licenses/MIT) license.
-## Documentation to help with Solidity
-https://docs.soliditylang.org/en/v0.8.4/
-## Documentation to help with React
-https://reactjs.org/docs/getting-started.html
-## Documentation to help with Truffle
-https://www.trufflesuite.com/docs/truffle/reference/configuration
-## Documentation to help with Ganache-cli
-https://www.trufflesuite.com/docs/ganache/overview
